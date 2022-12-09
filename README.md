@@ -18,5 +18,5 @@
 4. Medical image fusion method based on coupled neural P systems in nonsubsampled shearlet transform domain. [[Paper](https://morvanli.github.io/papers/IJNS2021.pdf)]【[Code](https://github.com/MorvanLi/CNP-MIF)】
 5. A novel fusion method based on dynamic threshold neural P systems and nonsubsampled contourlet transform for multi-modality medical images. 【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0165168420303376)】【[Code](https://github.com/MorvanLi/DTNP-MIF)】
 6. Medical Image Fusion With Parameter-Adaptive Pulse Coupled Neural Network in Nonsubsampled Shearlet Transform Domain【[Paper]()】【[Code](https://github.com/yuliu316316/NSST-PAPCNN-Fusion)】
-7. 
+7. Multimodal Medical Image Fusion Based on Joint Bilateral Filter and Local Gradient Energy.【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521003819)】【[Code](https://github.com/lxs6/INS_medical-image-fusion)】
 
