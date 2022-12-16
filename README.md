@@ -31,7 +31,9 @@
 
 9. A general framework for image fusion based on multi-scale transform and sparse representation.【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253514001043)】【[Code](https://github.com/yuliu316316/MST-SR-Fusion-Toolbox)】
 
-   
+10. Green fluorescent protein and phase contrast image fusion via detail preserving cross network. 【[Paper](https://ieeexplore.ieee.org/abstract/document/9442298)】【[Code](https://github.com/yuliu316316/DPCN-Fusion)】
+
+    
 
 
 
