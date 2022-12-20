@@ -33,6 +33,8 @@
 
 10. Green fluorescent protein and phase contrast image fusion via detail preserving cross network. 【[Paper](https://ieeexplore.ieee.org/abstract/document/9442298)】【[Code](https://github.com/yuliu316316/DPCN-Fusion)】
 
+11. Laplacian Re-Decomposition for Multimodal Medical Image Fusion. 【[Paper](https://ieeexplore.ieee.org/abstract/document/9005243)】【[Code](https://github.com/WHU-lab/Medical-Image-Fusion)】
+
     
 
 
